@@ -1,2 +1,1 @@
-# JobSearch
-Job search: Project results presentation
+# Job search: Project results presentation
